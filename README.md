@@ -1,4 +1,3 @@
-# EDA_rent
 # Análise Exploratória de Dados
 
 Autor: Larissa Macedo Rosa Silva
