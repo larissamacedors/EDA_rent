@@ -19,8 +19,8 @@ https://github.com/fernandomayer/ce083/blob/master/exercicios/ex_AED2_GB.R
 
 Dados referentes a um levantamento de preços de aluguel de apartamentos e casas na cidade de Munique (Alemanha)
 
-- Aluguel: valor do aluguel em euros
-- Metragem: tamanho em metros quadrados
-- Ano: ano de construção do local
-- Aquecimento: indicação se existe ou não aquecimento no local (true or false)
-- Loc: classificação do imóvel quanto à faixa de renda do bairro
+- ```aluguel```: valor do aluguel em euros
+- ```metragem```: tamanho em metros quadrados
+- ```ano```: ano de construção do local
+- ```aquecimento```: indicação se existe ou não aquecimento no local (true or false)
+- ```loc```: classificação do imóvel quanto à faixa de renda do bairro
