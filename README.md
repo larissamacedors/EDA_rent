@@ -6,7 +6,7 @@ Linguagem: Python
 
 ## Objetivo:
 
-Este projeto tem como objetivo compreender como é feita uma análise exploratória de dados. Este estudo apresenta um levamento de preços de aluguel de apartamentos e casas na cidade de Munique (Alemanha).
+Este projeto tem como objetivo compreender como é feita uma análise exploratória de dados. Este estudo apresenta um levantamento de preços de aluguel de apartamentos e casas na cidade de Munique (Alemanha).
 
 Utilizou-se o material do Professor Fernando de Pol Mayer da UFPR como referência. O estudo do Professor Fernando foi realizado utilizando a linguagem R e para este projeto transcrevi a análise para linguagem Python e complementei com análises adicionais.
 
