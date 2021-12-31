@@ -12,8 +12,7 @@ Utilizou-se o material do Professor Fernando de Pol Mayer da UFPR como referênc
 
 ## Material de Apoio:
 
-- Análise Exploratória de Dados - Prof Fernando de Pol Mayer UFPR
-https://github.com/fernandomayer/ce083/blob/master/exercicios/ex_AED2_GB.R
+- Análise Exploratória de Dados - [Prof Fernando de Pol Mayer UFPR](https://github.com/fernandomayer/ce083/blob/master/exercicios/ex_AED2_GB.R)
 
 ## Conjunto de Dados:
 
